@@ -1,4 +1,5 @@
-#Tic Tac Toe with Minimax Algorithm
+# Tic Tac Toe Game 🎮
+## Using Minimax Algorithm 🤖
 
 This is a Tic Tac Toe game built using HTML, CSS, and JavaScript, where the computer opponent uses the Minimax Algorithm. The AI is unbeatable — it always plays the best possible move.
 
